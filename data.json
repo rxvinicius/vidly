@@ -1,0 +1,10 @@
+{
+  "name": "Docker course",
+  "price": 149,
+  "is_published": true,
+  "tags": ["softaware", "devops"],
+  "author": {
+    "first_name": "Mosh",
+    "last_name": "Hamedani"
+  }
+}
